@@ -1,4 +1,4 @@
-# The server of style2paints V4 will be not avaliable from 2018.01.09 to 2018.01.27.
+# HI there,now we are closing down!The server will not open on time on the 27th.That's bad news.
  
 ![logo](https://github.com/lllyasviel/style2paints/raw/master/imgs/pages/logo.jpg)
 
